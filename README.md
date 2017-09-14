@@ -7,3 +7,4 @@
 - https://medium.com/@hamstu/recreating-the-firewatch-parallax-effect-213694d42f4e
 - https://hackernoon.com/how-to-create-a-favorite-animation-with-anime-js-5f9ec02c80dd
  - https://codepen.io/tyrellrummage/full/ZJPXgy/
+ - http://designresources.party/
