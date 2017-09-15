@@ -8,3 +8,4 @@
 - https://hackernoon.com/how-to-create-a-favorite-animation-with-anime-js-5f9ec02c80dd
  - https://codepen.io/tyrellrummage/full/ZJPXgy/
  - http://designresources.party/
+- https://www.sitelocity.com/critical-path-css-generator
