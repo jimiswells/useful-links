@@ -12,3 +12,4 @@
 - https://blog.prototypr.io/a-framework-for-creating-a-predictable-and-harmonious-spacing-system-8eee8aaf773c
 - https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939
 - https://medium.com/@tjmonsi/going-back-to-web-basics-structuring-html-7a74c54a0a77
+- http://georgehastings.com/#
