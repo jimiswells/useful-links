@@ -13,3 +13,4 @@
 - https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939
 - https://medium.com/@tjmonsi/going-back-to-web-basics-structuring-html-7a74c54a0a77
 - http://georgehastings.com/#
+- https://github.com/thedaviddias/Front-End-Checklist
