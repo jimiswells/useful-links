@@ -17,4 +17,4 @@
 - https://css-tricks.com/between-the-lines/
 - https://www.sofiapusa.com/
 - http://onesharedhouse2030.com/
-
+- https://www.behance.net/gallery/60273889/2018-Design-Trends
