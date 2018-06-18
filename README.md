@@ -19,3 +19,4 @@
 - http://onesharedhouse2030.com/
 - https://www.behance.net/gallery/60273889/2018-Design-Trends
 - https://hackernoon.com/writing-an-easing-function-a-slightly-interesting-story-70ce667c212a
+- https://www.smashingmagazine.com/2016/02/design-workflow/
