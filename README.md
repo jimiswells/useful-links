@@ -21,3 +21,4 @@
 - https://hackernoon.com/writing-an-easing-function-a-slightly-interesting-story-70ce667c212a
 - https://www.smashingmagazine.com/2016/02/design-workflow/
 - https://designcanada.com/
+- https://blog.logrocket.com/the-simpletons-guide-to-css-grid-1767565b3cf7
